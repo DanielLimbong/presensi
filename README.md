@@ -1,5 +1,5 @@
 # presensi
 
 For Login :
-Username : riyathi\n
+Username : riyathi
 Password : del@2022
